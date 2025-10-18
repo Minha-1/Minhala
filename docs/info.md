@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+2 AND gates are attached to input 1 and input 0
+The AND gates were attached to output 1 and 2 
 
 ## How to test
 
-Explain how to use your project
+Turn all the switches on and play, the 7-segment display will flash and "H"
 
 ## External hardware
 
